@@ -1,0 +1,5 @@
+left.png
+https://www.flaticon.com/free-icon/left-arrow_608283
+
+right.png
+https://www.flaticon.com/free-icon/right-arrow_626043
